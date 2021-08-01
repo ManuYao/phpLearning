@@ -1,0 +1,11 @@
+.navBar{
+    background-color: black;
+    link
+}
+.navLinkC a:active{
+    background-color: seagreen;
+    
+}
+.navLink {
+    color: white;
+}
